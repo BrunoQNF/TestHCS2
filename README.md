@@ -1,5 +1,6 @@
 # QuantumSolver
--Bruno Tenorio
--PUCP
+
+- Bruno Tenorio (PUCP)
 ## Description:
+
 Solves symbolic quantum mechanics problems
