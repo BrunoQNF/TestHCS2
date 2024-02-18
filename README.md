@@ -1,6 +1,6 @@
 # QuantumSolver
 
-- Bruno Tenorio (PUCP)
+- Bruno Tenorio (GROC-PUCP)
 ## Description:
 
-Solves symbolic quantum mechanics problems
+Solves numerical Schrodinger equation for various quantum mechanics problems
